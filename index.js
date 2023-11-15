@@ -5,5 +5,5 @@ console.log(add2(2, 3, 5));
 
 //build in module
 const path = require("path");
-console.log("🚀 ~ file: index.js:8 ~ path:", path.parse('/home/sreemaye/Next-Level/learning-node/index.js'))
+console.log("🚀 ~ file: index.js:8 ~ path:", path.join('/home/sreemaye/Next-Level/learning-node/index.js', 'local-1.js'))
 
